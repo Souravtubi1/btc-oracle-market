@@ -1,4 +1,4 @@
-# b# BTC Oracle Market
+ # BTC Oracle Market
 
 An always-open Bitcoin prediction market built on OPNet.
 
